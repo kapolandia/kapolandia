@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://ibb.co/DG11BJY"  />
-</div>
+![Alt text](./banner-dev.png)
 
 ###
 
